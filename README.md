@@ -13,7 +13,7 @@ My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS
 #Projects 
 
 
-##1.Ecommmerce website by implementing microservice architecture
+#1.Ecommmerce website by implementing microservice architecture
 
 
 -eureka server
@@ -21,7 +21,7 @@ My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS
 -AWS
 
 
-##2.Counselling system
+#2.Counselling system
 
 
 *anactodal
@@ -33,7 +33,7 @@ My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS
 *hashmap
 
 
-##3.Simon Game 
+#3.Simon Game 
 
 
 *jquery

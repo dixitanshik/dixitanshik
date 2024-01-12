@@ -11,19 +11,27 @@ My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS
 
 
 #Projects 
+
+
 ##1.Ecommmerce website by implementing microservice architecture
+
+
 *eureka server
 *okta authentication
 *AWS
 
 
 ##2.Counselling system
+
+
 *anactodal 
 *arraylist
 *hashmap
 
 
 ##3.Simon Game 
+
+
 *jquery
 
 

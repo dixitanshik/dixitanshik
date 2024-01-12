@@ -16,13 +16,9 @@ My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS
 ##1.Ecommmerce website by implementing microservice architecture
 
 
-*eureka server
-
-
-*okta authentication
-
-
-*AWS
+-eureka server
+-okta authentication
+-AWS
 
 
 ##2.Counselling system

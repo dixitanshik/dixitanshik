@@ -18,8 +18,7 @@ Projects
 <li>eureka server</li>
 <li>okta authentication</li>
 <li>AWS</li>
-
-
+  
 2.Counselling system
 
 

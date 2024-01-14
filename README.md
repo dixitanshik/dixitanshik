@@ -11,7 +11,7 @@ My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS
 Projects 
 
 
-Ecommmerce website by implementing microservice architecture
+1.Ecommmerce website by implementing microservice architecture
 
 
 <ul>
@@ -19,7 +19,7 @@ Ecommmerce website by implementing microservice architecture
 <li>okta authentication</li>
 <li>AWS</li>
   
-Counselling system
+2.Counselling system
 
 
 <li>anactodal</li>
@@ -28,10 +28,11 @@ Counselling system
 </ul>
 
 
-Simon Game 
+3.Simon Game 
 
 
 <li>jquery</li>
+
 
 
 Contact details

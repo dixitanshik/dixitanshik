@@ -19,6 +19,7 @@ Projects
 <li>okta authentication</li>
 <li>AWS</li>
 
+
 2.Counselling system
 
 
@@ -27,11 +28,10 @@ Projects
 <li>hashmap</li>
 </ul>
 
-
 3.Simon Game 
 
 
-*jquery
+<li>jquery</li>
 
 
 Contact details

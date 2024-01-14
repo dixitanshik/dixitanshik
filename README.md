@@ -19,9 +19,8 @@ Projects
 <li>okta authentication</li>
 <li>AWS</li>
 <br>
+1.Counselling System
   
-2.Counselling system
-
 
 <li>anactodal</li>
 <li>arraylist</li>

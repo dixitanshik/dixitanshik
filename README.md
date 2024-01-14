@@ -8,27 +8,28 @@ I am exploring various technical skills which includes salesforce,web developmen
 My skills as coder are in CPP,Devops,AWS,DBMS,Docker and OOPS 
 
 
-#Projects 
+Projects 
 
 
 1.Ecommmerce website by implementing microservice architecture
 
 
-*eureka server
-
-*okta authentication
-*AWS
-
-
-#2.Counselling system
+<ul>
+<li>eureka server</li>
+<li>okta authentication</li>
+<li>AWS</li>
 
 
-*anactodal
-*arraylist
-*hashmap
+2.Counselling system
 
 
-#3.Simon Game 
+<li>anactodal</li>
+<li>arraylist</li>
+<li>hashmap</li>
+</ul>
+
+
+3.Simon Game 
 
 
 *jquery

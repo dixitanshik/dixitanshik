@@ -19,7 +19,6 @@ Projects
 <li>okta authentication</li>
 <li>AWS</li>
 
-
 2.Counselling system
 
 
@@ -35,7 +34,7 @@ Projects
 *jquery
 
 
-#Contact details
+Contact details
 
 
 You can reach me through linkedin 

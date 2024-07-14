@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # ABOUT
-I am Anshika Dixit I am currently persuaing bachelors in computer science(Final Year). Currently working as in Intern in statusneo as a "Digital envagelist"and have also did my summer internship in IBM
+I am Anshika Dixit I did bachelors in computer science. Currently working as Associate Consultant at statusneo and have also did my summer internship at IBM
 
 
 I am exploring various technical skills which includes salesforce,web development and competative programing.I have also earned montly 
